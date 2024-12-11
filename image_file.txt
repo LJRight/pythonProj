@@ -1,0 +1,10 @@
+file 'sample_1.jpg'
+duration 18
+file 'sample_2.jpg'
+duration 18
+file 'sample_3.jpg'
+duration 18
+file 'sample_4.jpg'
+duration 18
+file 'sample_5.jpg'
+duration 18

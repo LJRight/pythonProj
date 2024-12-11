@@ -1,0 +1,20 @@
+[
+    {
+        "id": "112cc5e5-50b8-4c3e-bdd9-46305d19ef14",
+        "status": "planned",
+        "url": "https://cdn.creatomate.com/renders/112cc5e5-50b8-4c3e-bdd9-46305d19ef14.mp4",
+        "snapshot_url": "https://cdn.creatomate.com/snapshots/112cc5e5-50b8-4c3e-bdd9-46305d19ef14.jpg",
+        "template_id": "4b041952-d2c3-480f-a53c-90ef224379b1",
+        "template_name": "Image Slideshow w/ Intro and Outro",
+        "template_tags": [],
+        "output_format": "mp4",
+        "modifications": {
+            "7f7e1331-941a-4b6f-89b7-cdc5372406cf":"\xea\xb0\x80\xec\xb2\x9c\xeb\x8c\x80\xed\x95\x99\xea\xb5\x90 \xec\xa0\x95\xec\x8b\x9c\xeb\xaa\xa8\xec\xa7\x91",
+            "48734f5c-8c90-41ac-a059-e949e733936b": "http://localhost:8000/sample_1.jpg",
+            "0737f3b9-2968-4f40-a7ed-8297a340fa76": "http://localhost:8000/sample_2.jpg",
+            "93efcf94-8c0f-4e50-8f6b-80c83beb4358": "http://localhost:8000/sample_3.jpg",
+            "8ec7961e-6868-4ff7-879b-b2f6a939c9fe": "http://localhost:8000/sample_4.jpg",
+            "2ae4b1f1-e254-4c08-8dbb-6b774855fd53": "http://localhost:8000/sample_5.jpg"
+        }
+    }
+]
