@@ -235,8 +235,8 @@ source = {
 for img in images:
     source['elements'].append(add_Image(img))
 
-# with open('json/api_format_test_1.json', 'w') as json_file:
-#     json.dump(source, json_file, indent=4)
+with open('json/api_test_1.json', 'w') as json_file:
+    json.dump(source, json_file, indent=4)
 
 url = "https://api.creatomate.com/v1/renders"
 headers = {
@@ -265,8 +265,7 @@ while True:
 
     time.sleep(5)
 
-# 3. 파일 다운로드 (영상)
-file_name = prefix + '_' + file_url.split('/')[-1]
+file_name = prefix + '_' + 'test_1' + file_url.split('/')[-1]
 file_response = requests.get(file_url)
 
 with open(file_name, "wb") as file:
