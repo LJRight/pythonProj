@@ -39,11 +39,11 @@ def modify_source(source, key_path, value, operation="add"):
 
 def add_Image(img):
     source, descriptions, total_duration = img.values()
-
+    offset = descriptions[-1]['duration']
     img = {
         'type': 'composition',
         'track': 1,
-        'duration': total_duration,
+        'duration': total_duration + offset,
         'clip': True,
         'animations': [
             {
@@ -130,7 +130,6 @@ def add_Image(img):
             tts_audio = {
                 'type': 'composition',
                 'track': 2,
-                'time': 0,
                 'duration': d['duration'],
                 'elements': [
                     {
@@ -236,7 +235,7 @@ for img in images:
     source['elements'].append(add_Image(img))
 
 with open('json/api_test_1.json', 'w') as json_file:
-    json.dump(source, json_file, indent=4)
+    json.dump(source, json_file, indent=4, ensure_ascii=False)
 
 url = "https://api.creatomate.com/v1/renders"
 headers = {

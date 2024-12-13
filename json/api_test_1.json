@@ -1,0 +1,1496 @@
+{
+    "output_format": "mp4",
+    "frame_rate": 60,
+    "width": 720,
+    "height": 1280,
+    "elements": [
+        {
+            "type": "composition",
+            "track": 1,
+            "time": 0,
+            "duration": 4,
+            "fill_color": "#a1946c",
+            "clip": true,
+            "elements": [
+                {
+                    "type": "text",
+                    "track": 1,
+                    "time": 0,
+                    "duration": 3,
+                    "dynamic": true,
+                    "width": "52.2433%",
+                    "height": "35.6373%",
+                    "x_alignment": "50%",
+                    "y_alignment": "50%",
+                    "fill_color": "#ffffff",
+                    "animations": [
+                        {
+                            "time": "end",
+                            "duration": 3,
+                            "easing": "quadratic-out",
+                            "type": "text-typewriter",
+                            "typing_start": "0 s",
+                            "typing_duration": "1.5 s"
+                        },
+                        {
+                            "time": "end",
+                            "duration": 2.35,
+                            "easing": "linear",
+                            "type": "scale",
+                            "fade": false,
+                            "scope": "element",
+                            "track": 0,
+                            "start_scale": "130%"
+                        }
+                    ],
+                    "text": "가천대학교의 2024학년도 신입생 선발 발표",
+                    "font_family": "Yeon Sung",
+                    "font_size_minimum": "10 vmin",
+                    "font_size_maximum": "20 vmin",
+                    "text_transform": "uppercase"
+                }
+            ]
+        },
+        {
+            "type": "composition",
+            "track": 1,
+            "duration": 18.624000000000002,
+            "clip": true,
+            "animations": [
+                {
+                    "time": 0,
+                    "duration": 1.8624000000000003,
+                    "transition": true,
+                    "type": "fade"
+                }
+            ],
+            "elements": [
+                {
+                    "type": "image",
+                    "track": 1,
+                    "time": 0,
+                    "duration": 18.624000000000002,
+                    "dynamic": true,
+                    "color_overlay": "rgba(0,0,0,0.25)",
+                    "animations": [
+                        {
+                            "time": 0,
+                            "duration": 1.8624000000000003,
+                            "easing": "quadratic-out",
+                            "type": "slide",
+                            "direction": "180"
+                        },
+                        {
+                            "time": 1.8624000000000003,
+                            "duration": 16.7616,
+                            "easing": "linear",
+                            "type": "scale",
+                            "fade": false,
+                            "scope": "element",
+                            "end_scale": "130%",
+                            "start_scale": "100%"
+                        }
+                    ],
+                    "source": "https://ljright.github.io/pythonProj/image/image_49.jpg"
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "time": 0,
+                    "duration": 3.384,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "2024년 노벨상 수상 후보자에",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "https://ljright.github.io/pythonProj/audio/20241214_015214_category_0_img_0_audio_0.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "duration": 2.4,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "대한 기대가 커지고 있다.",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "https://ljright.github.io/pythonProj/audio/20241214_015214_category_0_img_0_audio_1.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "duration": 3.552,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "특히 최근 한국의 문학 분야에서",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "https://ljright.github.io/pythonProj/audio/20241214_015214_category_0_img_0_audio_2.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "duration": 2.952,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "많은 관심을 받고 있는 가운데,",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "https://ljright.github.io/pythonProj/audio/20241214_015214_category_0_img_0_audio_3.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "duration": 3.624,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "지난해와 같은 '춘추전국시대'가",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "https://ljright.github.io/pythonProj/audio/20241214_015214_category_0_img_0_audio_4.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "duration": 2.712,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "재연될 가능성이 점쳐진다.",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "https://ljright.github.io/pythonProj/audio/20241214_015214_category_0_img_0_audio_5.mp3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "composition",
+            "track": 1,
+            "duration": 16.104,
+            "clip": true,
+            "animations": [
+                {
+                    "time": 0,
+                    "duration": 1.6104,
+                    "transition": true,
+                    "type": "fade"
+                }
+            ],
+            "elements": [
+                {
+                    "type": "image",
+                    "track": 1,
+                    "time": 0,
+                    "duration": 16.104,
+                    "dynamic": true,
+                    "color_overlay": "rgba(0,0,0,0.25)",
+                    "animations": [
+                        {
+                            "time": 0,
+                            "duration": 1.6104,
+                            "easing": "quadratic-out",
+                            "type": "slide",
+                            "direction": "180"
+                        },
+                        {
+                            "time": 1.6104,
+                            "duration": 14.493599999999999,
+                            "easing": "linear",
+                            "type": "scale",
+                            "fade": false,
+                            "scope": "element",
+                            "end_scale": "130%",
+                            "start_scale": "100%"
+                        }
+                    ],
+                    "source": "https://ljright.github.io/pythonProj/image/image_2.jpg"
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "time": 0,
+                    "duration": 2.232,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "그린포드 노벨문학상",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "https://ljright.github.io/pythonProj/audio/20241214_015214_category_0_img_1_audio_0.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "duration": 2.928,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "심사위원들은 한국 작가들의",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "https://ljright.github.io/pythonProj/audio/20241214_015214_category_0_img_1_audio_1.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "duration": 2.424,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "독창성과 실험 정신을",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "https://ljright.github.io/pythonProj/audio/20241214_015214_category_0_img_1_audio_2.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "duration": 2.184,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "높이 평가하고 있으며,",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "https://ljright.github.io/pythonProj/audio/20241214_015214_category_0_img_1_audio_3.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "duration": 3.312,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "이러한 점이 실제 수상으로 이어질",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "https://ljright.github.io/pythonProj/audio/20241214_015214_category_0_img_1_audio_4.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "duration": 3.024,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "수 있을지 귀추가 주목된다.",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "https://ljright.github.io/pythonProj/audio/20241214_015214_category_0_img_1_audio_5.mp3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "composition",
+            "track": 1,
+            "duration": 17.52,
+            "clip": true,
+            "animations": [
+                {
+                    "time": 0,
+                    "duration": 1.752,
+                    "transition": true,
+                    "type": "fade"
+                }
+            ],
+            "elements": [
+                {
+                    "type": "image",
+                    "track": 1,
+                    "time": 0,
+                    "duration": 17.52,
+                    "dynamic": true,
+                    "color_overlay": "rgba(0,0,0,0.25)",
+                    "animations": [
+                        {
+                            "time": 0,
+                            "duration": 1.752,
+                            "easing": "quadratic-out",
+                            "type": "slide",
+                            "direction": "180"
+                        },
+                        {
+                            "time": 1.752,
+                            "duration": 15.768,
+                            "easing": "linear",
+                            "type": "scale",
+                            "fade": false,
+                            "scope": "element",
+                            "end_scale": "130%",
+                            "start_scale": "100%"
+                        }
+                    ],
+                    "source": "https://ljright.github.io/pythonProj/image/image_1.jpg"
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "time": 0,
+                    "duration": 2.688,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "전문가들은 한국 작가들이",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "https://ljright.github.io/pythonProj/audio/20241214_015214_category_0_img_2_audio_0.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "duration": 2.136,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "노벨상을 받을 수 있는",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "https://ljright.github.io/pythonProj/audio/20241214_015214_category_0_img_2_audio_1.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "duration": 2.424,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "충분한 잠재력을 지니고",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "https://ljright.github.io/pythonProj/audio/20241214_015214_category_0_img_2_audio_2.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "duration": 2.136,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "있다고 평가하고 있다.",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "https://ljright.github.io/pythonProj/audio/20241214_015214_category_0_img_2_audio_3.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "duration": 1.056,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "특히,",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "https://ljright.github.io/pythonProj/audio/20241214_015214_category_0_img_2_audio_4.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "duration": 3.504,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "현재의 글로벌 문학 시장에서 한국",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "https://ljright.github.io/pythonProj/audio/20241214_015214_category_0_img_2_audio_5.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "duration": 3.576,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "문학의 가치는 더욱 부각되고 있다.",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "https://ljright.github.io/pythonProj/audio/20241214_015214_category_0_img_2_audio_6.mp3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "composition",
+            "track": 1,
+            "duration": 16.272,
+            "clip": true,
+            "animations": [
+                {
+                    "time": 0,
+                    "duration": 1.6272,
+                    "transition": true,
+                    "type": "fade"
+                }
+            ],
+            "elements": [
+                {
+                    "type": "image",
+                    "track": 1,
+                    "time": 0,
+                    "duration": 16.272,
+                    "dynamic": true,
+                    "color_overlay": "rgba(0,0,0,0.25)",
+                    "animations": [
+                        {
+                            "time": 0,
+                            "duration": 1.6272,
+                            "easing": "quadratic-out",
+                            "type": "slide",
+                            "direction": "180"
+                        },
+                        {
+                            "time": 1.6272,
+                            "duration": 14.644799999999998,
+                            "easing": "linear",
+                            "type": "scale",
+                            "fade": false,
+                            "scope": "element",
+                            "end_scale": "130%",
+                            "start_scale": "100%"
+                        }
+                    ],
+                    "source": "https://ljright.github.io/pythonProj/image/image_70.jpg"
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "time": 0,
+                    "duration": 2.088,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "많은 한국 작가들이",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "https://ljright.github.io/pythonProj/audio/20241214_015214_category_0_img_3_audio_0.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "duration": 2.208,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "한국 외의 독자들과의",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "https://ljright.github.io/pythonProj/audio/20241214_015214_category_0_img_3_audio_1.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "duration": 2.088,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "소통을 통해 그들의",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "https://ljright.github.io/pythonProj/audio/20241214_015214_category_0_img_3_audio_2.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "duration": 2.208,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "경험을 공유하고 있으며,",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "https://ljright.github.io/pythonProj/audio/20241214_015214_category_0_img_3_audio_3.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "duration": 1.632,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "이로 인해 한국",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "https://ljright.github.io/pythonProj/audio/20241214_015214_category_0_img_3_audio_4.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "duration": 2.328,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "문학이 더 많은 주목을",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "https://ljright.github.io/pythonProj/audio/20241214_015214_category_0_img_3_audio_5.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "duration": 2.136,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "받을 수 있을 것이라고",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "https://ljright.github.io/pythonProj/audio/20241214_015214_category_0_img_3_audio_6.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "duration": 1.584,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "전망하고 있다.",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "https://ljright.github.io/pythonProj/audio/20241214_015214_category_0_img_3_audio_7.mp3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "composition",
+            "track": 1,
+            "duration": 12.696,
+            "clip": true,
+            "animations": [
+                {
+                    "time": 0,
+                    "duration": 1.2696,
+                    "transition": true,
+                    "type": "fade"
+                }
+            ],
+            "elements": [
+                {
+                    "type": "image",
+                    "track": 1,
+                    "time": 0,
+                    "duration": 12.696,
+                    "dynamic": true,
+                    "color_overlay": "rgba(0,0,0,0.25)",
+                    "animations": [
+                        {
+                            "time": 0,
+                            "duration": 1.2696,
+                            "easing": "quadratic-out",
+                            "type": "slide",
+                            "direction": "180"
+                        },
+                        {
+                            "time": 1.2696,
+                            "duration": 11.4264,
+                            "easing": "linear",
+                            "type": "scale",
+                            "fade": false,
+                            "scope": "element",
+                            "end_scale": "130%",
+                            "start_scale": "100%"
+                        }
+                    ],
+                    "source": "https://ljright.github.io/pythonProj/image/image_46.jpg"
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "time": 0,
+                    "duration": 0.984,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "또한,",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "https://ljright.github.io/pythonProj/audio/20241214_015214_category_0_img_4_audio_0.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "duration": 3.432,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "세계 여러 나라에서 한국 문학과",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "https://ljright.github.io/pythonProj/audio/20241214_015214_category_0_img_4_audio_1.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "duration": 2.952,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "관련한 출판과 번역 작업이",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "https://ljright.github.io/pythonProj/audio/20241214_015214_category_0_img_4_audio_2.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "duration": 2.664,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "활발히 이루어지고 있다는 점도",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "https://ljright.github.io/pythonProj/audio/20241214_015214_category_0_img_4_audio_3.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "duration": 2.664,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "긍정적인 신호로 해석된다.",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "https://ljright.github.io/pythonProj/audio/20241214_015214_category_0_img_4_audio_4.mp3"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
