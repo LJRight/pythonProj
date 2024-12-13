@@ -1,0 +1,99 @@
+{
+    "output_format": "mp4",
+    "frame_rate": 60,
+    "width": 720,
+    "height": 1280,
+    "elements": [
+        {
+            "type": "composition",
+            "track": 1,
+            "time": 0,
+            "duration": 4,
+            "fill_color": "#9b4165",
+            "clip": true,
+            "elements": [
+                {
+                    "type": "text",
+                    "track": 1,
+                    "time": 0,
+                    "duration": 3,
+                    "dynamic": true,
+                    "width": "52.2433%",
+                    "height": "35.6373%",
+                    "x_alignment": "50%",
+                    "y_alignment": "50%",
+                    "fill_color": "#ffffff",
+                    "animations": [
+                        {
+                            "time": "end",
+                            "duration": 3,
+                            "easing": "quadratic-out",
+                            "type": "text-typewriter",
+                            "typing_start": "0 s",
+                            "typing_duration": "1.5 s"
+                        },
+                        {
+                            "time": "end",
+                            "duration": 2.366,
+                            "easing": "linear",
+                            "type": "scale",
+                            "fade": false,
+                            "scope": "element",
+                            "track": 0,
+                            "start_scale": "130%"
+                        }
+                    ],
+                    "text": "\uac00\ucc9c\ub300\ud559\uad50 \uc878\uc5c5\uc791\ud488",
+                    "font_family": "Yeon Sung",
+                    "font_size_minimum": "10 vmin",
+                    "font_size_maximum": "20 vmin",
+                    "text_transform": "uppercase"
+                }
+            ]
+        },
+        {
+            "type": "composition",
+            "track": 1,
+            "duration": 10,
+            "clip": true,
+            "animations": [
+                {
+                    "time": 0,
+                    "duration": 1.2,
+                    "transition": true,
+                    "type": "fade"
+                }
+            ],
+            "elements": [
+                {
+                    "type": "image",
+                    "track": 1,
+                    "time": 0,
+                    "duration": 10,
+                    "dynamic": true,
+                    "color_overlay": "rgba(0,0,0,0.25)",
+                    "animations": [
+                        {
+                            "time": 0,
+                            "duration": 1.2,
+                            "easing": "quadratic-out",
+                            "type": "slide",
+                            "direction": "180"
+                        },
+                        {
+                            "time": "end",
+                            "duration": 8.8,
+                            "easing": "linear",
+                            "type": "scale",
+                            "fade": false,
+                            "scope": "element",
+                            "end_scale": "130%",
+                            "start_scale": "100%"
+                        }
+                    ],
+                    "source": "https://creatomate-static.s3.amazonaws.com/demo/image1.jpg"
+                }
+            ]
+        }
+    ]
+}

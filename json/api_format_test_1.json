@@ -1,0 +1,1523 @@
+{
+    "output_format": "mp4",
+    "frame_rate": 60,
+    "width": 720,
+    "height": 1280,
+    "elements": [
+        {
+            "type": "composition",
+            "track": 1,
+            "time": 0,
+            "duration": 4,
+            "fill_color": "#d7230a",
+            "clip": true,
+            "elements": [
+                {
+                    "type": "text",
+                    "track": 1,
+                    "time": 0,
+                    "duration": 3,
+                    "dynamic": true,
+                    "width": "52.2433%",
+                    "height": "35.6373%",
+                    "x_alignment": "50%",
+                    "y_alignment": "50%",
+                    "fill_color": "#ffffff",
+                    "animations": [
+                        {
+                            "time": "end",
+                            "duration": 3,
+                            "easing": "quadratic-out",
+                            "type": "text-typewriter",
+                            "typing_start": "0 s",
+                            "typing_duration": "1.5 s"
+                        },
+                        {
+                            "time": "end",
+                            "duration": 2.35,
+                            "easing": "linear",
+                            "type": "scale",
+                            "fade": false,
+                            "scope": "element",
+                            "track": 0,
+                            "start_scale": "130%"
+                        }
+                    ],
+                    "text": "\uac00\ucc9c\ub300\ud559\uad50\uc758 2024\ud559\ub144\ub3c4 \uc2e0\uc785\uc0dd \uc120\ubc1c \ubc1c\ud45c",
+                    "font_family": "Yeon Sung",
+                    "font_size_minimum": "10 vmin",
+                    "font_size_maximum": "20 vmin",
+                    "text_transform": "uppercase"
+                }
+            ]
+        },
+        {
+            "type": "composition",
+            "track": 1,
+            "duration": 18.624000000000002,
+            "clip": true,
+            "animations": [
+                {
+                    "time": 0,
+                    "duration": 1.8624000000000003,
+                    "transition": true,
+                    "type": "fade"
+                }
+            ],
+            "elements": [
+                {
+                    "type": "image",
+                    "track": 1,
+                    "time": 0,
+                    "duration": 18.624000000000002,
+                    "dynamic": true,
+                    "color_overlay": "rgba(0,0,0,0.25)",
+                    "animations": [
+                        {
+                            "time": 0,
+                            "duration": 1.8624000000000003,
+                            "easing": "quadratic-out",
+                            "type": "slide",
+                            "direction": "180"
+                        },
+                        {
+                            "time": 1.8624000000000003,
+                            "duration": 16.7616,
+                            "easing": "linear",
+                            "type": "scale",
+                            "fade": false,
+                            "scope": "element",
+                            "end_scale": "130%",
+                            "start_scale": "100%"
+                        }
+                    ],
+                    "source": "GPT_SnipClip/classified_categories/classified_category_1/category_1_images/image_49.jpg"
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "time": 0,
+                    "duration": 3.384,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "2024\ub144 \ub178\ubca8\uc0c1 \uc218\uc0c1 \ud6c4\ubcf4\uc790\uc5d0",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "audio/20241214_015214_category_0_img_0_audio_0.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "time": 0,
+                    "duration": 2.4,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "\ub300\ud55c \uae30\ub300\uac00 \ucee4\uc9c0\uace0 \uc788\ub2e4.",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "audio/20241214_015214_category_0_img_0_audio_1.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "time": 0,
+                    "duration": 3.552,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "\ud2b9\ud788 \ucd5c\uadfc \ud55c\uad6d\uc758 \ubb38\ud559 \ubd84\uc57c\uc5d0\uc11c",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "audio/20241214_015214_category_0_img_0_audio_2.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "time": 0,
+                    "duration": 2.952,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "\ub9ce\uc740 \uad00\uc2ec\uc744 \ubc1b\uace0 \uc788\ub294 \uac00\uc6b4\ub370,",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "audio/20241214_015214_category_0_img_0_audio_3.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "time": 0,
+                    "duration": 3.624,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "\uc9c0\ub09c\ud574\uc640 \uac19\uc740 '\ucd98\ucd94\uc804\uad6d\uc2dc\ub300'\uac00",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "audio/20241214_015214_category_0_img_0_audio_4.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "time": 0,
+                    "duration": 2.712,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "\uc7ac\uc5f0\ub420 \uac00\ub2a5\uc131\uc774 \uc810\uccd0\uc9c4\ub2e4.",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "audio/20241214_015214_category_0_img_0_audio_5.mp3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "composition",
+            "track": 1,
+            "duration": 16.104,
+            "clip": true,
+            "animations": [
+                {
+                    "time": 0,
+                    "duration": 1.6104,
+                    "transition": true,
+                    "type": "fade"
+                }
+            ],
+            "elements": [
+                {
+                    "type": "image",
+                    "track": 1,
+                    "time": 0,
+                    "duration": 16.104,
+                    "dynamic": true,
+                    "color_overlay": "rgba(0,0,0,0.25)",
+                    "animations": [
+                        {
+                            "time": 0,
+                            "duration": 1.6104,
+                            "easing": "quadratic-out",
+                            "type": "slide",
+                            "direction": "180"
+                        },
+                        {
+                            "time": 1.6104,
+                            "duration": 14.493599999999999,
+                            "easing": "linear",
+                            "type": "scale",
+                            "fade": false,
+                            "scope": "element",
+                            "end_scale": "130%",
+                            "start_scale": "100%"
+                        }
+                    ],
+                    "source": "GPT_SnipClip/classified_categories/classified_category_1/category_1_images/image_2.jpg"
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "time": 0,
+                    "duration": 2.232,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "\uadf8\ub9b0\ud3ec\ub4dc \ub178\ubca8\ubb38\ud559\uc0c1",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "audio/20241214_015214_category_0_img_1_audio_0.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "time": 0,
+                    "duration": 2.928,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "\uc2ec\uc0ac\uc704\uc6d0\ub4e4\uc740 \ud55c\uad6d \uc791\uac00\ub4e4\uc758",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "audio/20241214_015214_category_0_img_1_audio_1.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "time": 0,
+                    "duration": 2.424,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "\ub3c5\ucc3d\uc131\uacfc \uc2e4\ud5d8 \uc815\uc2e0\uc744",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "audio/20241214_015214_category_0_img_1_audio_2.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "time": 0,
+                    "duration": 2.184,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "\ub192\uc774 \ud3c9\uac00\ud558\uace0 \uc788\uc73c\uba70,",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "audio/20241214_015214_category_0_img_1_audio_3.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "time": 0,
+                    "duration": 3.312,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "\uc774\ub7ec\ud55c \uc810\uc774 \uc2e4\uc81c \uc218\uc0c1\uc73c\ub85c \uc774\uc5b4\uc9c8",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "audio/20241214_015214_category_0_img_1_audio_4.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "time": 0,
+                    "duration": 3.024,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "\uc218 \uc788\uc744\uc9c0 \uadc0\ucd94\uac00 \uc8fc\ubaa9\ub41c\ub2e4.",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "audio/20241214_015214_category_0_img_1_audio_5.mp3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "composition",
+            "track": 1,
+            "duration": 17.52,
+            "clip": true,
+            "animations": [
+                {
+                    "time": 0,
+                    "duration": 1.752,
+                    "transition": true,
+                    "type": "fade"
+                }
+            ],
+            "elements": [
+                {
+                    "type": "image",
+                    "track": 1,
+                    "time": 0,
+                    "duration": 17.52,
+                    "dynamic": true,
+                    "color_overlay": "rgba(0,0,0,0.25)",
+                    "animations": [
+                        {
+                            "time": 0,
+                            "duration": 1.752,
+                            "easing": "quadratic-out",
+                            "type": "slide",
+                            "direction": "180"
+                        },
+                        {
+                            "time": 1.752,
+                            "duration": 15.768,
+                            "easing": "linear",
+                            "type": "scale",
+                            "fade": false,
+                            "scope": "element",
+                            "end_scale": "130%",
+                            "start_scale": "100%"
+                        }
+                    ],
+                    "source": "GPT_SnipClip/classified_categories/classified_category_1/category_1_images/image_1.jpg"
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "time": 0,
+                    "duration": 2.688,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "\uc804\ubb38\uac00\ub4e4\uc740 \ud55c\uad6d \uc791\uac00\ub4e4\uc774",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "audio/20241214_015214_category_0_img_2_audio_0.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "time": 0,
+                    "duration": 2.136,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "\ub178\ubca8\uc0c1\uc744 \ubc1b\uc744 \uc218 \uc788\ub294",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "audio/20241214_015214_category_0_img_2_audio_1.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "time": 0,
+                    "duration": 2.424,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "\ucda9\ubd84\ud55c \uc7a0\uc7ac\ub825\uc744 \uc9c0\ub2c8\uace0",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "audio/20241214_015214_category_0_img_2_audio_2.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "time": 0,
+                    "duration": 2.136,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "\uc788\ub2e4\uace0 \ud3c9\uac00\ud558\uace0 \uc788\ub2e4.",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "audio/20241214_015214_category_0_img_2_audio_3.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "time": 0,
+                    "duration": 1.056,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "\ud2b9\ud788,",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "audio/20241214_015214_category_0_img_2_audio_4.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "time": 0,
+                    "duration": 3.504,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "\ud604\uc7ac\uc758 \uae00\ub85c\ubc8c \ubb38\ud559 \uc2dc\uc7a5\uc5d0\uc11c \ud55c\uad6d",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "audio/20241214_015214_category_0_img_2_audio_5.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "time": 0,
+                    "duration": 3.576,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "\ubb38\ud559\uc758 \uac00\uce58\ub294 \ub354\uc6b1 \ubd80\uac01\ub418\uace0 \uc788\ub2e4.",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "audio/20241214_015214_category_0_img_2_audio_6.mp3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "composition",
+            "track": 1,
+            "duration": 16.272,
+            "clip": true,
+            "animations": [
+                {
+                    "time": 0,
+                    "duration": 1.6272,
+                    "transition": true,
+                    "type": "fade"
+                }
+            ],
+            "elements": [
+                {
+                    "type": "image",
+                    "track": 1,
+                    "time": 0,
+                    "duration": 16.272,
+                    "dynamic": true,
+                    "color_overlay": "rgba(0,0,0,0.25)",
+                    "animations": [
+                        {
+                            "time": 0,
+                            "duration": 1.6272,
+                            "easing": "quadratic-out",
+                            "type": "slide",
+                            "direction": "180"
+                        },
+                        {
+                            "time": 1.6272,
+                            "duration": 14.644799999999998,
+                            "easing": "linear",
+                            "type": "scale",
+                            "fade": false,
+                            "scope": "element",
+                            "end_scale": "130%",
+                            "start_scale": "100%"
+                        }
+                    ],
+                    "source": "GPT_SnipClip/classified_categories/classified_category_1/category_1_images/image_70.jpg"
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "time": 0,
+                    "duration": 2.088,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "\ub9ce\uc740 \ud55c\uad6d \uc791\uac00\ub4e4\uc774",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "audio/20241214_015214_category_0_img_3_audio_0.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "time": 0,
+                    "duration": 2.208,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "\ud55c\uad6d \uc678\uc758 \ub3c5\uc790\ub4e4\uacfc\uc758",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "audio/20241214_015214_category_0_img_3_audio_1.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "time": 0,
+                    "duration": 2.088,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "\uc18c\ud1b5\uc744 \ud1b5\ud574 \uadf8\ub4e4\uc758",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "audio/20241214_015214_category_0_img_3_audio_2.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "time": 0,
+                    "duration": 2.208,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "\uacbd\ud5d8\uc744 \uacf5\uc720\ud558\uace0 \uc788\uc73c\uba70,",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "audio/20241214_015214_category_0_img_3_audio_3.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "time": 0,
+                    "duration": 1.632,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "\uc774\ub85c \uc778\ud574 \ud55c\uad6d",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "audio/20241214_015214_category_0_img_3_audio_4.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "time": 0,
+                    "duration": 2.328,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "\ubb38\ud559\uc774 \ub354 \ub9ce\uc740 \uc8fc\ubaa9\uc744",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "audio/20241214_015214_category_0_img_3_audio_5.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "time": 0,
+                    "duration": 2.136,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "\ubc1b\uc744 \uc218 \uc788\uc744 \uac83\uc774\ub77c\uace0",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "audio/20241214_015214_category_0_img_3_audio_6.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "time": 0,
+                    "duration": 1.584,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "\uc804\ub9dd\ud558\uace0 \uc788\ub2e4.",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "audio/20241214_015214_category_0_img_3_audio_7.mp3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "composition",
+            "track": 1,
+            "duration": 12.696,
+            "clip": true,
+            "animations": [
+                {
+                    "time": 0,
+                    "duration": 1.2696,
+                    "transition": true,
+                    "type": "fade"
+                }
+            ],
+            "elements": [
+                {
+                    "type": "image",
+                    "track": 1,
+                    "time": 0,
+                    "duration": 12.696,
+                    "dynamic": true,
+                    "color_overlay": "rgba(0,0,0,0.25)",
+                    "animations": [
+                        {
+                            "time": 0,
+                            "duration": 1.2696,
+                            "easing": "quadratic-out",
+                            "type": "slide",
+                            "direction": "180"
+                        },
+                        {
+                            "time": 1.2696,
+                            "duration": 11.4264,
+                            "easing": "linear",
+                            "type": "scale",
+                            "fade": false,
+                            "scope": "element",
+                            "end_scale": "130%",
+                            "start_scale": "100%"
+                        }
+                    ],
+                    "source": "GPT_SnipClip/classified_categories/classified_category_1/category_1_images/image_46.jpg"
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "time": 0,
+                    "duration": 0.984,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "\ub610\ud55c,",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "audio/20241214_015214_category_0_img_4_audio_0.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "time": 0,
+                    "duration": 3.432,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "\uc138\uacc4 \uc5ec\ub7ec \ub098\ub77c\uc5d0\uc11c \ud55c\uad6d \ubb38\ud559\uacfc",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "audio/20241214_015214_category_0_img_4_audio_1.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "time": 0,
+                    "duration": 2.952,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "\uad00\ub828\ud55c \ucd9c\ud310\uacfc \ubc88\uc5ed \uc791\uc5c5\uc774",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "audio/20241214_015214_category_0_img_4_audio_2.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "time": 0,
+                    "duration": 2.664,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "\ud65c\ubc1c\ud788 \uc774\ub8e8\uc5b4\uc9c0\uace0 \uc788\ub2e4\ub294 \uc810\ub3c4",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "audio/20241214_015214_category_0_img_4_audio_3.mp3"
+                        }
+                    ]
+                },
+                {
+                    "type": "composition",
+                    "track": 2,
+                    "time": 0,
+                    "duration": 2.664,
+                    "elements": [
+                        {
+                            "type": "text",
+                            "track": 1,
+                            "time": 0,
+                            "x": "5%",
+                            "width": "90%",
+                            "x_anchor": "0%",
+                            "y_anchor": "0%",
+                            "x_alignment": "50%",
+                            "y_alignment": "50%",
+                            "fill_color": "#090101",
+                            "animations": [
+                                {
+                                    "easing": "quadratic-out",
+                                    "type": "text-typewriter"
+                                }
+                            ],
+                            "text": "\uae0d\uc815\uc801\uc778 \uc2e0\ud638\ub85c \ud574\uc11d\ub41c\ub2e4.",
+                            "font_family": "Noto Sans",
+                            "font_size": "7 vmin",
+                            "background_color": "rgba(255,255,255,1)",
+                            "background_x_padding": "10%",
+                            "background_y_padding": "10%"
+                        },
+                        {
+                            "type": "audio",
+                            "track": 2,
+                            "time": 0,
+                            "duration": null,
+                            "source": "audio/20241214_015214_category_0_img_4_audio_4.mp3"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
